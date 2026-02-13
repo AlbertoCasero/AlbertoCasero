@@ -15,7 +15,8 @@ Para mis proyectos utilizo un stack variado que incluye:
 - **Control de Versiones:** Git & GitHub.
 
 ## 📂 Proyectos Destacados
-*Aquí puedes enlazar tus repositorios favoritos usando los "Pinned Repositories"* 
+https://github.com/AlbertoCasero/DAW2
+
 
 ---
 
