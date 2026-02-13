@@ -3,7 +3,7 @@
 Actualmente tengo **20 años** y soy estudiante del **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.]Me apasiona construir soluciones digitales eficientes y estoy en constante aprendizaje para mejorar mis habilidades como desarrollador.
 
 ## 🚀 Sobre mí
-- 🎓 Estudiante de 2º de DAW en el I.E.S. [cite_start]Domenico Scarlatti.
+- 🎓 Estudiante de 2º de DAW en el I.E.S. Domenico Scarlatti.
 - 💻 Enfocado en el desarrollo Full Stack y el diseño de interfaces limpias.
 - 🌱 Actualmente profundizando en arquitecturas escalables y buenas prácticas de Git.
 
