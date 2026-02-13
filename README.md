@@ -22,4 +22,3 @@ Para mis proyectos utilizo un stack variado que incluye:
 ## 📫 Contacto
 ¡Me encanta conectar con otros desarrolladores!
 - **LinkedIn:** www.linkedin.com/in/a-casero
-- **Portafolio:** [Tu enlace aquí]
