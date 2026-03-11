@@ -14,9 +14,6 @@ Para mis proyectos utilizo un stack variado que incluye:
 - **Frontend:** HTML5, CSS3, Bootstrap.
 - **Control de Versiones:** Git & GitHub.
 
-## 📂 Proyectos Destacados
-https://github.com/AlbertoCasero/DAW2
-
 
 ---
 
